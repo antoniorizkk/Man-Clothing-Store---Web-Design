@@ -1,2 +1,2 @@
-# Man-Clothing-Store---Web-Design
-Web design using HTML, CSS, and BOOTSTRAP
+# Man Clothing Store WebDesign
+In the creation of a website for a men’s clothing store, I focused on crafting an elegant and responsive design using HTML, CSS, and Bootstrap. The site’s layout is tailored to showcase the apparel collection with sophistication, ensuring that each item is presented in a way that highlights its style and quality. The use of Bootstrap enhances the site’s adaptability across devices, providing a seamless shopping experience. This project is a testament to my ability to create visually appealing and user-friendly web designs.
